@@ -1,0 +1,18 @@
+img {
+    width: 1000px;
+    height: 700px;
+}
+
+#tutorial {
+    margin-top: 700px;
+}
+
+li {
+    margin-top: 100px;
+}
+
+#top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
