@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Snake",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "snake.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
