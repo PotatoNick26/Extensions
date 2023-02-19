@@ -4,6 +4,6 @@
     "name": "Black Jack",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "images/203559406.jpg"
+        "default_icon": "images/icon.png"
     }
 }
